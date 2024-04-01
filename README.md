@@ -327,19 +327,19 @@ By following these steps, you can start developing .NET applications and explore
 
 [Official site ](https://dotnet.microsoft.com/en-us/)
 
-[Site ](https://learn.microsoft.com/en-us/dotnet/?view=aspnetcore-8.0)
+[Site microsoft ](https://learn.microsoft.com/en-us/dotnet/?view=aspnetcore-8.0)
 
-[Site ](https://www.tutorialspoint.com/asp.net/index.htm)
+[Site Tutorialspoint ](https://www.tutorialspoint.com/asp.net/index.htm)
 
-[Site ](https://www.w3schools.com/asp/default.ASP)
+[Site W3 ](https://www.w3schools.com/asp/default.ASP)
 
-[Site ](https://artelogic.net/blog/top-7-web-resources-built-using-net/)
+[Site 3 ](https://artelogic.net/blog/top-7-web-resources-built-using-net/)
 
 # Video tutorials
 
-[Site ](https://www.youtube.com/watch?v=aT8K5Gk0BeI)
+[Site youtube1 ](https://www.youtube.com/watch?v=aT8K5Gk0BeI)
 
-[Site ](https://www.youtube.com/watch?v=wgjGzm7Xs7M)
+[Site youtube2 ](https://www.youtube.com/watch?v=wgjGzm7Xs7M)
 
 
 
