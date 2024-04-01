@@ -307,11 +307,47 @@ By following these steps, you can start developing .NET applications and explore
 5. **Visual studio code**
 6. ...
 
-<img src='./V1' >
+<img src='./Version.png' >
 
-<img src='./V2' >
+<img src='./Support.png' >
 
-# Tutorial
+.NET 6 is the latest LTS (Long-Term Support) release, providing stability and support for production applications. Or use the .net 7 version on the .net 8 version everything is not fully integrated yet
+
+# Tutorial Page
+
+[Tutorial ](https://learn.microsoft.com/sk-sk/training/modules/build-blazor-todo-list/)
+
+# **Tutorial Homework**
+
+[Todo List](https://learn.microsoft.com/sk-sk/training/modules/build-blazor-todo-list/)
+
+[Interact with data in Blazor web apps](https://learn.microsoft.com/sk-sk/training/modules/interact-with-data-blazor-web-apps/)
+
+# More Links
+
+[Official site ](https://dotnet.microsoft.com/en-us/)
+
+[Site ](https://learn.microsoft.com/en-us/dotnet/?view=aspnetcore-8.0)
+
+[Site ](https://www.tutorialspoint.com/asp.net/index.htm)
+
+[Site ](https://www.w3schools.com/asp/default.ASP)
+
+[Site ](https://artelogic.net/blog/top-7-web-resources-built-using-net/)
+
+# Video tutorials
+
+[Site ](https://www.youtube.com/watch?v=aT8K5Gk0BeI)
+
+[Site ](https://www.youtube.com/watch?v=wgjGzm7Xs7M)
+
+
+
+
+
+
+
+
 
 
 
